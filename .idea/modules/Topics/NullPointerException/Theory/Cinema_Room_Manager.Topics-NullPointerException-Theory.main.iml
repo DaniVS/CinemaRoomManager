@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-NullPointerException-Theory:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/NullPointerException/Theory" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema Room Manager" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/NullPointerException/Theory/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/NullPointerException/Theory/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/NullPointerException/Theory/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="temurin-17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="ab0bdd1f-cd82-4a71-a96a-0e0de4f92372" />
+  </component>
+</module>

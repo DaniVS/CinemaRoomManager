@@ -1,0 +1,32 @@
+
+y
+java:S14889"]Immediately return this expression instead of assigning it to the temporary variable "seats".(ª‹¬g8Âç“”È1
+y
+java:S1488?"\Immediately return this expression instead of assigning it to the temporary variable "rows".(Â×À8Ãç“”È1
+€
+java:S1488±"bImmediately return this expression instead of assigning it to the temporary variable "userChoice".(ïÿßß8Ãç“”È1
+G	java:S1062"+Replace this use of System.out by a logger.(ûºÀ£8Ëê“”È1
+G	java:S1068"+Replace this use of System.out by a logger.(Òÿöå8Òê“”È1
+G	java:S106>"+Replace this use of System.out by a logger.(¶¾ïé8Ùê“”È1
+L	java:S106W"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8†°•”È1
+G	java:S106X"+Replace this use of System.out by a logger.(Ó¤Ì¯8†°•”È1
+G	java:S106["+Replace this use of System.out by a logger.(æÒÍ³8Èê“”È1
+L	java:S106]"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ˆ°•”È1
+L	java:S106t"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‹°•”È1
+G	java:S106u"+Replace this use of System.out by a logger.(Î„¤Á8Œ°•”È1
+F	java:S106x"+Replace this use of System.out by a logger.(­ÒÔf8°•”È1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8°•”È1
+H	java:S106€"+Replace this use of System.out by a logger.(ÏÏ¸8°•”È1
+M	java:S106«"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8“°•”È1
+H	java:S106¬"+Replace this use of System.out by a logger.(Ş¡¼Ï8“°•”È1
+G	java:S106­"+Replace this use of System.out by a logger.(ÏèÜ8”°•”È1
+H	java:S106®"+Replace this use of System.out by a logger.(Ş£ğÛ8”°•”È1
+M	java:S106¯"+Replace this use of System.out by a logger.(ïÚâÀşÿÿÿÿ8”°•”È1
+M	java:S106º"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8–°•”È1
+H	java:S106»"+Replace this use of System.out by a logger.(ûºÀ£8–°•”È1
+G	java:S106À"+Replace this use of System.out by a logger.(°ôÙE8–°•”È1
+M	java:S106È"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8—°•”È1
+M	java:S106É"+Replace this use of System.out by a logger.(ß³âãùÿÿÿÿ8˜°•”È1
+M	java:S106Ê"+Replace this use of System.out by a logger.(ÒÔ‰…øÿÿÿÿ8˜°•”È1
+H	java:S106Ë"+Replace this use of System.out by a logger.(Ó×ú˜8™°•”È1
+M	java:S106Ì"+Replace this use of System.out by a logger.(á†ÎÀûÿÿÿÿ8™°•”È1
